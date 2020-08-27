@@ -869,11 +869,10 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .floating-board{
-  background-color: lightblue;
   width: 80%;
   height: 80%;
   text-align: center;
-  overflow: scroll;
+  overflow: auto;
 }
 
 .overlay .icons i {

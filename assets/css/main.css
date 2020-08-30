@@ -874,7 +874,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .card {
 	border-radius: 15px 15px 15px;
-	/* background:  #E5F4FB; */
+  /* background:  #E5F4FB; */
+  margin-bottom: 10px;
 	padding: 10px;
 	margin: 1em;
 }
